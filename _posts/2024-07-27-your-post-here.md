@@ -1,15 +1,13 @@
 ---
 layout: post
-title: How to create an effective landing page for your campaign
+title: Farming Tycoon
 image: "https://picsum.photos/500/300"
-category: Ruby On Rails
+category: Side Projects
 author: Me
 ---
-
-Lorem markdownum causa finita rector cura uterque: Telamonque possit; attulerat
-totaque pugnat at vincar corpore ad exiguo canisve. Est tuo coniugis siquis
-bracchia exitio quibus! Et pater poeniceam numen tenebrisque quem incubuit hic
-damus tumere descendere.
+This is one of my few side projects that I am working on right now. I have been
+working on this for a week and a half and my goal is to finish by the end of the
+month.
 
 Quam carpitur, porrigit gignis frendens saxea, [at](http://aere-myrrha.net/)
 poma ingentia vacet credentes. Namque avertere notatum placandam atque,
