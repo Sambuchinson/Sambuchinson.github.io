@@ -8,16 +8,14 @@ image: /assets/images/main.avif
 main_content: >
   # Welcome to my Portfolio.
 
+Hi, I’m a Lua developer with **over 3 and a half years of experience**, specializing in scripting and game development. Most of my work centers around **SCP-style** games, where I’ve honed my skills in gameplay mechanics, AI scripting, and immersive interactions. That said, I also enjoy branching out into other genres.
 
-  **Solum remis procul; poenam, corde?** Te quoque facti agros, querorque,
-  excutis
+I’m currently **open for commissions** and actively looking to collaborate with studios or teams on exciting projects. Whether you need clean, efficient code or help bringing your game ideas to life, I’d love to be part of it.
 
-  quoque vestigia substricta caelestique posuisset litore: suaque. **Et
-  limine**, et
+I work in the **CST** timezone and pride myself on clear communication, reliable delivery, and a strong grasp of both the technical and creative sides of game development.
 
-  nimium nec io diemque vocat spicea et horror licet leto fortuna suis cum.
-  **Lecto viae, quod Naxos tumulos quoque.** Et illo de nati iuvenci oris habet,
-  perdidit parantur! **#Rails #Ruby #Python #HTML #Css #Js #AWS**
+Let’s build something great together!
+
 footer: true
 permalink: /
 ---
