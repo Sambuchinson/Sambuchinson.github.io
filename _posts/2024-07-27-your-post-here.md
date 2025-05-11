@@ -9,6 +9,8 @@ This is one of my few side projects that I am working on right now. I have been
 working on this for a week and a half and my goal is to finish by the end of the
 month.
 
+<img src="https://gyazo.com/701a10b5c1a225dc5cb351625ae9518a" alt="Your GIF description">
+
 Quam carpitur, porrigit gignis frendens saxea, [at](http://aere-myrrha.net/)
 poma ingentia vacet credentes. Namque avertere notatum placandam atque,
 _miserrima Astyanax_ dieque ut sinat Cereris: nec.
