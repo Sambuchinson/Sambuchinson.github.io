@@ -8,7 +8,8 @@ author: Me
 This is one of my few side projects that I am working on right now. I have been
 working on this for a week and a half and my goal is to finish by the end of the
 month.
-<video width="320" height="240" autoplay>
+
+<video width="320" height="240" controls>
   <source src="/assets/images/movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
