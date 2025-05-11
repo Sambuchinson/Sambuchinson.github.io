@@ -13,6 +13,7 @@ main_content: >
   mechanics, AI scripting, and immersive interactions. That said, I also enjoy branching out into other genres. I’m currently **open for commissions** and actively looking to collaborate with studios or teams on exciting 
   projects. Whether you need clean, efficient code or help bringing your game ideas to life, I’d love to be part of it.
 
+
   I work in the **CST** timezone and pride myself on clear communication, reliable delivery, and a strong grasp of both the technical and creative sides of game development.
   Let’s build something great together!
 
